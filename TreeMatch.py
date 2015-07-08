@@ -4,9 +4,8 @@
 #       Dept. of Public Works
 #       7.6.15
 #
-#       USAGE:  
-#              
-#              
+#       USAGE: Creates a match probablility between the two datasets 
+#              based on spatial correlation and similar attributes
 
 #       import and setup
 print "***** RUNNING Match Probablitity SCRIPT *****"
