@@ -21,7 +21,7 @@ input_Davy = r"C:\\Users\\blovato\\Desktop\\SFGISData_Brenten\\PyTest\\Davy_Orig
 input_DPW = r"C:\\Users\\blovato\\Desktop\\SFGISData_Brenten\\PyTest\\Trees_June2015_sunset_movedXY_10.shp" # DPW Trees after running algorith to move points
 davy_buffer = r"C:\\Users\\blovato\\Desktop\\SFGISData_Brenten\\PyTest\\davy_buffer.shp" # buffer of Davy
 davyBuff_joinDPW = r"C:\\Users\\blovato\\Desktop\\SFGISData_Brenten\\PyTest\\davyBuff_joinDPW.shp" # joining buffer to DPW Trees
-distance = 15   # in feet
+distance = 10   # in feet
 env.overwriteOutput = True
 
 #       function to check existing field
